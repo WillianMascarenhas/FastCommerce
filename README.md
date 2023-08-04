@@ -21,7 +21,7 @@ Após todas dependecias estarem instaladas basta executar o seguinte comando:
 ```bash
   npm run dev
 ```
-         ou
+ ou
 ```bash
   yarn dev
 ```
